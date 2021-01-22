@@ -39,3 +39,5 @@ C:\Users\User\Desktop\Sales Udemy\SalesWebMVC\SalesWebMvc\SalesWebMvc\obj\Debug\
 C:\Users\User\Desktop\Sales Udemy\SalesWebMVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\User\Desktop\Sales Udemy\SalesWebMVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 C:\Users\User\Desktop\Sales Udemy\SalesWebMVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\Users\User\Desktop\Sales Udemy\SalesWebMVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Sales Udemy\SalesWebMVC\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
